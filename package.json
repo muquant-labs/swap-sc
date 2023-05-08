@@ -1,0 +1,22 @@
+{
+  "name": "swap-sc",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muquant-labs/swap-sc.git"
+  },
+  "keywords": [
+    "swap"
+  ],
+  "author": "pancakeswap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muquant-labs/swap-sc/issues"
+  },
+  "homepage": "https://github.com/muquant-labs/swap-sc#readme"
+}
